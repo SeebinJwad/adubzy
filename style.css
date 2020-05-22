@@ -29,9 +29,15 @@ ADUBZY BLUE:#73a2c8;
   padding-left:30px;
   padding-right:30px;
 }
+
 #inputMessage{
   padding-bottom:100px; 
   padding-top:20px;
+}
+.footer-heading{
+  color:white;
+  font-family:'Kaushan';
+  font-size:20px;
 }
 @font-face {
   font-family: 'Abril';
@@ -40,6 +46,10 @@ ADUBZY BLUE:#73a2c8;
 @font-face{
   font-family: 'Kaushan';
   src: url('KaushanScript-Regular.ttf') format('trutype');
+}
+@font-face{
+  font-family: 'Pacifico';
+  src: url('Pacifico-Regular.ttf') format('truetype');
 }
 body,html{
   height:100%;
