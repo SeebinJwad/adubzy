@@ -1,0 +1,38 @@
+.full-width-image {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  margin-left: -50vw;
+}
+.top-buffer { margin-top:20px; }
+.container-fluid { 
+  padding: 0px;
+}
+#volunteer-banner{
+  background-color:#e77b4f;
+  width:100%;
+  padding-top:35px;
+  padding-bottom:35px;
+}
+/*
+ADUBZY BLUE:#73a2c8;
+*/
+.navbar{
+  padding-left:30px;
+  padding-right:30px;
+}
+#inputMessage{
+  padding-bottom:100px; 
+  padding-top:20px;
+}
+@font-face {
+  font-family: 'Abril';
+  src: url('AbrilFatface-Regular.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+} 
+@font-face{
+  font-family: 'Kaushan';
+  src: url('KaushanScript-Regular.ttf') format('trutype');
+}
+body,html{
+  height:100%;
+}
